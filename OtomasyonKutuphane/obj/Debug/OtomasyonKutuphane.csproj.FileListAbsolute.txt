@@ -1,0 +1,401 @@
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+c:\users\root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+C:\Users\Root\documents\visual studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+C:\Users\Root\Documents\Visual Studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+C:\Users\Root\Documents\Visual Studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+C:\Users\Root\Documents\Visual Studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+C:\Users\Root\Documents\Visual Studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+C:\Users\Root\Documents\Visual Studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+C:\Users\Root\Documents\Visual Studio 2012\Projects\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+F:\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+F:\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+F:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+C:\Users\User\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+G:\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+G:\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+G:\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+G:\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncEkle.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncIslemleri.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncEkle.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncIslemleri.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+D:\Proje ve Veritabanı\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncEkle.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncIslemleri.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+C:\Users\emirh\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncEkle.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncIslemleri.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.perRapor.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\RdlCompile.cache
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\RdlCompile.compiled
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapRpr.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayinRpr.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.auyeRpr.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.puyeRpr.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeRpr.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarRpr.resources
+C:\Users\Asi\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katRpr.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.auyeRpr.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katRpr.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncEkle.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncIslemleri.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapRpr.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.perRapor.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.puyeRpr.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeRpr.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayinRpr.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarRpr.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\RdlCompile.cache
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\RdlCompile.compiled
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odIade.resources
+C:\Users\emirh\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.iadeEdilenKit.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.pdb
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.adminForm.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.anaForm.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.auyeRpr.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.A_uye.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Form1.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.iadeEdilenKit.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katDuzenle.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriEkle.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kategoriListe.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katRpr.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapEkle.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapIslemleri.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapListesi.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapSorgula.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odIade.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odunc.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncEkle.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.oduncIslemleri.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapRpr.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.perRapor.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelEkle.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personelIslemleri.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.personeListe.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.Properties.Resources.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.puyeRpr.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.P_uye.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeEkle.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeIslemleri.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeListesi.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeRpr.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviEkle.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayineviListesi.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayinRpr.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayIslemleri.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarEkle.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarIslemleri.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarListesi.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarRpr.resources
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.csproj.GenerateResource.Cache
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\RdlCompile.cache
+C:\Users\Root\Desktop\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\RdlCompile.compiled
+F:\Belgeler\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\OtomasyonKutuphane.exe.config
+F:\Belgeler\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.exe
+F:\Belgeler\Raporlamalı Otomawsyon\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.pdb
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.auyeRpr.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.iadeEdilenKit.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.katRpr.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.odIade.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.kitapRpr.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.perRapor.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.puyeRpr.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.uyeRpr.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yayinRpr.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\obj\Debug\OtomasyonKutuphane.yazarRpr.resources
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Root\Desktop\OtomasyonKutuphane\OtomasyonKutuphane\bin\Debug\Microsoft.SqlServer.Types.dll

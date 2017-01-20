@@ -1,0 +1,444 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E10E38EA-1E45-4240-AD6D-E89FD72480F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OtomasyonKutuphane</RootNamespace>
+    <AssemblyName>OtomasyonKutuphane</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminForm.Designer.cs">
+      <DependentUpon>adminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anaForm.Designer.cs">
+      <DependentUpon>anaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="auyeRpr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="auyeRpr.Designer.cs">
+      <DependentUpon>auyeRpr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="A_uye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_uye.Designer.cs">
+      <DependentUpon>A_uye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iadeEdilenKit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iadeEdilenKit.Designer.cs">
+      <DependentUpon>iadeEdilenKit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="katDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="katDuzenle.Designer.cs">
+      <DependentUpon>katDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kategoriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kategoriEkle.Designer.cs">
+      <DependentUpon>kategoriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kategoriListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kategoriListe.Designer.cs">
+      <DependentUpon>kategoriListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="katRpr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="katRpr.Designer.cs">
+      <DependentUpon>katRpr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapEkle.Designer.cs">
+      <DependentUpon>kitapEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapIslemleri.Designer.cs">
+      <DependentUpon>kitapIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapListesi.Designer.cs">
+      <DependentUpon>kitapListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapSorgula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapSorgula.Designer.cs">
+      <DependentUpon>kitapSorgula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kutuphaneDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>kutuphaneDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="odIade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="odIade.Designer.cs">
+      <DependentUpon>odIade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="odunc.Designer.cs">
+      <DependentUpon>odunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oduncEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oduncEkle.Designer.cs">
+      <DependentUpon>oduncEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oduncIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oduncIslemleri.Designer.cs">
+      <DependentUpon>oduncIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitapRpr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitapRpr.Designer.cs">
+      <DependentUpon>kitapRpr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="perRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="perRapor.Designer.cs">
+      <DependentUpon>perRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personelEkle.Designer.cs">
+      <DependentUpon>personelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personelIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personelIslemleri.Designer.cs">
+      <DependentUpon>personelIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personeListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personeListe.Designer.cs">
+      <DependentUpon>personeListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="puyeRpr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="puyeRpr.Designer.cs">
+      <DependentUpon>puyeRpr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_uye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="P_uye.Designer.cs">
+      <DependentUpon>P_uye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uyeEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uyeEkle.Designer.cs">
+      <DependentUpon>uyeEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uyeIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uyeIslemleri.Designer.cs">
+      <DependentUpon>uyeIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uyeListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uyeListesi.Designer.cs">
+      <DependentUpon>uyeListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uyeRpr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uyeRpr.Designer.cs">
+      <DependentUpon>uyeRpr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yayineviEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yayineviEkle.Designer.cs">
+      <DependentUpon>yayineviEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yayineviListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yayineviListesi.Designer.cs">
+      <DependentUpon>yayineviListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yayinRpr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yayinRpr.Designer.cs">
+      <DependentUpon>yayinRpr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yayIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yayIslemleri.Designer.cs">
+      <DependentUpon>yayIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yazarEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yazarEkle.Designer.cs">
+      <DependentUpon>yazarEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yazarIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yazarIslemleri.Designer.cs">
+      <DependentUpon>yazarIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yazarListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yazarListesi.Designer.cs">
+      <DependentUpon>yazarListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yazarRpr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yazarRpr.Designer.cs">
+      <DependentUpon>yazarRpr.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminForm.resx">
+      <DependentUpon>adminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anaForm.resx">
+      <DependentUpon>anaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="auyeRpr.resx">
+      <DependentUpon>auyeRpr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="A_uye.resx">
+      <DependentUpon>A_uye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Copy of Report4.rdlc" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iadeEdilenKit.resx">
+      <DependentUpon>iadeEdilenKit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="katDuzenle.resx">
+      <DependentUpon>katDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kategoriEkle.resx">
+      <DependentUpon>kategoriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kategoriListe.resx">
+      <DependentUpon>kategoriListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="katRpr.resx">
+      <DependentUpon>katRpr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapEkle.resx">
+      <DependentUpon>kitapEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapIslemleri.resx">
+      <DependentUpon>kitapIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapListesi.resx">
+      <DependentUpon>kitapListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapSorgula.resx">
+      <DependentUpon>kitapSorgula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odIade.resx">
+      <DependentUpon>odIade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odunc.resx">
+      <DependentUpon>odunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oduncEkle.resx">
+      <DependentUpon>oduncEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oduncIslemleri.resx">
+      <DependentUpon>oduncIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitapRpr.resx">
+      <DependentUpon>kitapRpr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="perRapor.resx">
+      <DependentUpon>perRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personelEkle.resx">
+      <DependentUpon>personelEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personelIslemleri.resx">
+      <DependentUpon>personelIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personeListe.resx">
+      <DependentUpon>personeListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="puyeRpr.resx">
+      <DependentUpon>puyeRpr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="P_uye.resx">
+      <DependentUpon>P_uye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Report7.rdlc" />
+    <EmbeddedResource Include="Report8.rdlc" />
+    <EmbeddedResource Include="uyeEkle.resx">
+      <DependentUpon>uyeEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uyeIslemleri.resx">
+      <DependentUpon>uyeIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uyeListesi.resx">
+      <DependentUpon>uyeListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uyeRpr.resx">
+      <DependentUpon>uyeRpr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yayineviEkle.resx">
+      <DependentUpon>yayineviEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yayineviListesi.resx">
+      <DependentUpon>yayineviListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yayinRpr.resx">
+      <DependentUpon>yayinRpr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yayIslemleri.resx">
+      <DependentUpon>yayIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yazarEkle.resx">
+      <DependentUpon>yazarEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yazarIslemleri.resx">
+      <DependentUpon>yazarIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yazarListesi.resx">
+      <DependentUpon>yazarListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yazarRpr.resx">
+      <DependentUpon>yazarRpr.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="kutuphaneDBDataSet.xsc">
+      <DependentUpon>kutuphaneDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="kutuphaneDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>kutuphaneDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="kutuphaneDBDataSet.xss">
+      <DependentUpon>kutuphaneDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
